@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    display: block;
+    margin: 8px;
+}
+
+.container{
+    display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+
+div{
+    text-align: center;
+}
+
+table {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+   }
+
+   input {
+    padding: 3px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 10px;
+    font-size: small;
+}
+table{
+    margin-left: 8px;
+}
